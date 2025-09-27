@@ -36,4 +36,8 @@ function getRandomColor() {
 - [Основы веб-вёрстки с HTML и CSS - Stepik](https://stepik.org/course/129827/promo?search=7047840552)
 - [JS/Front-end Pre-school RU Course](https://rs.school/courses/javascript-preschool-ru)
 - [Build Responsive Real-World Websites with HTML and CSS](https://www.google.com/aclk?sa=L&ai=DChsSEwjM2f2FtPmPAxWTQJEFHUw6GYQYACICCAEQABoCbHI&co=1&ase=2&gclid=CjwKCAjwlt7GBhAvEiwAKal0crTMpeU5GZQOGL1JKbXoCyAY6BktK6o5jbUxd1MaMqYhki4VR28JBhoCPxQQAvD_BwE&cid=CAASN-RoJvbjvjIw-LPV4X-aJjVqH-4E35MuANTiNRnAA-GdQWoOrTKb91kp2Dypnb_grh66oniSyEI&cce=2&category=acrcp_v1_32&sig=AOD64_1sKaZ_Ro28JdZWiTHErag_o5hc_g&q&nis=4&adurl&ved=2ahUKEwimv_SFtPmPAxXoKBAIHQPbEIEQ0Qx6BAgVEAE) (ongoing)
-
+## Languages
+- English - *<ins>Proficient</ins>* (reasons were mentioned above in Education and Personal Information sections)
+- Russian - *First Language*
+- Turkish - *Fluent*
+- Uzbek - *Fluent*
